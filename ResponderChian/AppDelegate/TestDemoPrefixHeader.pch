@@ -1,0 +1,16 @@
+//
+//  ResponderChianPrefixHeader.pch
+//  ResponderChian
+//
+//  Created by 李学良 on 2021/3/16.
+//
+
+#ifndef ResponderChianPrefixHeader_pch
+#define ResponderChianPrefixHeader_pch
+#import "UIResponder+Router.h"
+#import "ShopDetailEventName.h"
+#import "ShopEventProxy.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ResponderChianPrefixHeader_pch */
